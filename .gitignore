@@ -1,0 +1,16 @@
+# Ignore venv
+env/
+
+# Ignore cash mypy
+.mypy_cache/
+
+# Ignore system files
+*.pyc
+*.pyo
+*.log
+__pycache__/
+
+# Ignore VSCode files
+.vscode/
+.idea/
+*.swp
